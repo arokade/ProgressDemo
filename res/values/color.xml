@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="contact_view_bg_color">#D7D9DB</color>
+    <color name="title_bar_bg_color">#BCC1C4</color>
+    <color name="red">#AC0716</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#BDBDBD</color>
+    <color name="background">#777777</color>
+    <color name="divider_invisible">#0000</color>
+    <color name="grey_border">#888888</color>
+    <color name="btn_start">#DF6C63</color>
+    <color name="btn_mid">#D3332C</color>
+    <color name="btn_end">#D3332C</color>
+    <color name="btn_border">#712F2B</color>
+    <color name="dark_grey">#808080</color>
+    <color name="text_header_backg">#F0f0f0</color> <!-- E8E8E8 -->
+    <color name="dark_red">#C5000C</color>
+    <color name="action_bar_colr">#444444</color>
+
+</resources>
